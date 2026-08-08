@@ -1,0 +1,10 @@
+<resources>
+    <!-- Nombre completo oficial: se usa en Ajustes > Apps, notificaciones,
+         hoja de "Compartir", menú interno, launcher, etc. -->
+    <string name="app_name">Olyze Movie Creator</string>
+    <!-- Antes era una versión corta ("Olyze") solo para el ícono del
+         launcher, para que no se corte bajo el ícono. Por pedido explícito
+         del cliente, ahora usa el nombre completo en todos lados, aunque
+         se vea truncado bajo el ícono en algunos launchers de Android. -->
+    <string name="app_name_launcher">Olyze Movie Creator</string>
+</resources>
